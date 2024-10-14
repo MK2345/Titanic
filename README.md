@@ -1,3 +1,3 @@
 # Titanic
 
-<img src="header.png">
+<img src="images/header.png">
